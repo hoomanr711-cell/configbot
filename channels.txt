@@ -1,0 +1,17 @@
+# هر خط یک کانال عمومی تلگرام (بدون @). خط‌هایی که با # شروع شن نادیده گرفته می‌شن.
+# اسکریپت از هر کانال هم کانفیگ V2Ray و هم پروکسی MTProto رو جمع می‌کنه.
+
+# کانال پروکسی (فقط پروکسی MTProto می‌ذاره)
+proxymtprotoir
+
+# کانال‌های کانفیگ (از لیست پروژه‌ی V2RayRoot)
+Alpha_V2ray_Iran
+Farah_VPN
+iMTProto
+ZibaNabz
+vaddress
+Letiranbreath
+mitivpn
+xgvpn
+
+# اگه کانال خوب دیگه‌ای پیدا کردی، اسمش رو اینجا اضافه کن
