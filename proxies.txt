@@ -1,3 +1,4 @@
+https://t.me/proxy?server=all3.beshdash.ir&port=20200&secret=389824d0b51ba5defc3b645cebf65ec3
 https://t.me/proxy?server=srv-eggooc.mtp-at.lol&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=monaliiiz.www.n.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=
 https://t.me/proxy?server=www.gasolino.ir.&port=8443&secret=3RYDAQIAAQAB_AMDhuJMOt0AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
