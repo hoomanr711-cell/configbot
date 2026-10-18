@@ -1,14 +1,14 @@
 # پروکسی‌های تلگرام
 
-آخرین آپدیت: 2026-10-17 22:49 UTC
+آخرین آپدیت: 2026-10-18 02:30 UTC
 
 روی هر لینک بزن؛ تلگرام خودش می‌پرسه بخوای وصل بشی یا نه.
 
-1. [cocorichmond.pareporeh.info.:7799](https://t.me/proxy?server=cocorichmond.pareporeh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
-2. [recordzan.herfeibash.info.:7799](https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
-3. [sarzamin.mosbatbashim.info.:2882](https://t.me/proxy?server=sarzamin.mosbatbashim.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
-4. [zokamodeling.baranepaeizi.info.:9988](https://t.me/proxy?server=zokamodeling.baranepaeizi.info.&port=9988&secret=dd10400103324995b07c030386e886e7f1)
-5. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
+1. [zokamodeling.baranepaeizi.info.:9988](https://t.me/proxy?server=zokamodeling.baranepaeizi.info.&port=9988&secret=dd10400103324995b07c030386e886e7f1)
+2. [sarzamin.mosbatbashim.info.:2882](https://t.me/proxy?server=sarzamin.mosbatbashim.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
+3. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
+4. [cocorichmond.pareporeh.info.:7799](https://t.me/proxy?server=cocorichmond.pareporeh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
+5. [recordzan.herfeibash.info.:7799](https://t.me/proxy?server=recordzan.herfeibash.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
 6. [vahshianeh.ghodratitarin.info.:7799](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
 7. [good.cipservice.co.uk:2083](https://t.me/proxy?server=good.cipservice.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 8. [mangoseason8.co.uk:2096](https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
