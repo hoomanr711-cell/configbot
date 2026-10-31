@@ -1,3 +1,3 @@
-2026-10-31 03:38 UTC
+2026-10-31 11:31 UTC
 configs=400
-proxies=16
+proxies=15
