@@ -1,17 +1,27 @@
 # پروکسی‌های تلگرام
 
-آخرین آپدیت: 2026-11-24 19:51 UTC
+آخرین آپدیت: 2026-11-25 03:54 UTC
 
 روی هر لینک بزن؛ تلگرام خودش می‌پرسه بخوای وصل بشی یا نه.
 
-1. [worldmaster.varomax.co.uk.:5500](https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA)
-2. [vahshianeh.ghodratitarin.info.:7799](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
-3. [avangard.pareporeh.info.:5500](https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
-4. [philadelphia.hezarto.info.:5500](https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
-5. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
+1. [avangard.pareporeh.info.:5500](https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
+2. [philadelphia.hezarto.info.:5500](https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
+3. [vahshianeh.ghodratitarin.info.:7799](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
+4. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
+5. [worldmaster.varomax.co.uk.:5500](https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA)
 6. [shoes.golgoli2.co.uk:2096](https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 7. [silnet.varfootball.co.uk:2053](https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 8. [api.mangoseason5.co.uk:2053](https://t.me/proxy?server=api.mangoseason5.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 9. [silver.ciaude.co.uk:2096](https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 10. [iro.varfootball2.co.uk:2053](https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 11. [professor.hasratepaeiz.website.:7070](https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw)
+12. [dastan.sarnevesht.space:443](https://t.me/proxy?server=dastan.sarnevesht.space&port=443&secret=10400103324995b07c030386e886e7f1)
+13. [46.62.224.5:8443](https://t.me/proxy?server=46.62.224.5&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+14. [do.anotelinopalk.co.uk:8880](https://t.me/proxy?server=do.anotelinopalk.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09)
+15. [run.golgoli2.co.uk:2053](https://t.me/proxy?server=run.golgoli2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09)
+16. [star.talebi.co.uk:2096](https://t.me/proxy?server=star.talebi.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09)
+17. [lol-lock.godserver52.info:2020](https://t.me/proxy?server=lol-lock.godserver52.info&port=2020&secret=00000000000000000000000000000000)
+18. [s2.server-space52.info:2020](https://t.me/proxy?server=s2.server-space52.info&port=2020&secret=00000000000000000000000000000000)
+19. [s3.server-space52.info:2020](https://t.me/proxy?server=s3.server-space52.info&port=2020&secret=00000000000000000000000000000000)
+20. [server63.server-space52.info:2020](https://t.me/proxy?server=server63.server-space52.info&port=2020&secret=00000000000000000000000000000000)
+21. [server93.server-space52.info:2020](https://t.me/proxy?server=server93.server-space52.info&port=2020&secret=00000000000000000000000000000000)
