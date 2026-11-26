@@ -1,8 +1,8 @@
 https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
-https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
-https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA
 https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1
+https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw
+https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1
 https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw
 https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ
@@ -25,6 +25,14 @@ https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=79e344818749bd7a
 https://t.me/proxy?server=winter.lavazem2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=oooptimop.info&port=8443&secret=79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=day.lavazem4.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
-https://t.me/proxy?server=91.98.223.136&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=85.133.200.50&port=8880&secret=dd1603010200010001fc030386e24c3add
+https://t.me/proxy?server=5.222.12.36&port=8443&secret=104462821249bd7ac519130220c8dd09
+https://t.me/proxy?server=oodhx.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.144.249&port=2096&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.144.50&port=2083&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=afkar.lavazem1.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09
+https://t.me/proxy?server=dark23.qavi-13.co.uk&port=155&secret=eedeb8be6682edb1cce7e5cdabbb8891456461726b32332e716176692d31332e636f2e756b
+https://t.me/proxy?server=kara.petros-es.co.uk&port=1550&secret=280597c4f8738458d70e44cbb8b46e8b
+https://t.me/proxy?server=torobchesho.co.uk&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b
 https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ

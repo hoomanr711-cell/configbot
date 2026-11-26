@@ -1,14 +1,14 @@
 # پروکسی‌های تلگرام
 
-آخرین آپدیت: 2026-11-25 16:38 UTC
+آخرین آپدیت: 2026-11-26 01:25 UTC
 
 روی هر لینک بزن؛ تلگرام خودش می‌پرسه بخوای وصل بشی یا نه.
 
 1. [avangard.pareporeh.info.:5500](https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
-2. [philadelphia.hezarto.info.:5500](https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
-3. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
-4. [worldmaster.varomax.co.uk.:5500](https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA)
-5. [vahshianeh.ghodratitarin.info.:7799](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
+2. [worldmaster.varomax.co.uk.:5500](https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA)
+3. [vahshianeh.ghodratitarin.info.:7799](https://t.me/proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1)
+4. [philadelphia.hezarto.info.:5500](https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw)
+5. [bookmook.hichibehichi-co.info.:2882](https://t.me/proxy?server=bookmook.hichibehichi-co.info.&port=2882&secret=dd10400103324995b07c030386e886e7f1)
 6. [professor.hasratepaeiz.website.:7070](https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw)
 7. [shoes.golgoli2.co.uk:2096](https://t.me/proxy?server=shoes.golgoli2.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 8. [silnet.varfootball.co.uk:2053](https://t.me/proxy?server=silnet.varfootball.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -31,6 +31,14 @@
 25. [winter.lavazem2.co.uk:2053](https://t.me/proxy?server=winter.lavazem2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09)
 26. [oooptimop.info:8443](https://t.me/proxy?server=oooptimop.info&port=8443&secret=79e344818749bd7ac519130220c25d09)
 27. [day.lavazem4.co.uk:2053](https://t.me/proxy?server=day.lavazem4.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09)
-28. [91.98.223.136:8443](https://t.me/proxy?server=91.98.223.136&port=8443&secret=1603010200010001fc030386e24c3add)
-29. [85.133.200.50:8880](https://t.me/proxy?server=85.133.200.50&port=8880&secret=dd1603010200010001fc030386e24c3add)
-30. [iro.varfootball2.co.uk:2053](https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+28. [85.133.200.50:8880](https://t.me/proxy?server=85.133.200.50&port=8880&secret=dd1603010200010001fc030386e24c3add)
+29. [5.222.12.36:8443](https://t.me/proxy?server=5.222.12.36&port=8443&secret=104462821249bd7ac519130220c8dd09)
+30. [oodhx.ir.ir.ir.meli-n12.info:8443](https://t.me/proxy?server=oodhx.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09)
+31. [87.248.144.249:2096](https://t.me/proxy?server=87.248.144.249&port=2096&secret=79e344818749bd7ac519130220c25d09)
+32. [87.248.144.50:2083](https://t.me/proxy?server=87.248.144.50&port=2083&secret=79e344818749bd7ac519130220c25d09)
+33. [afkar.lavazem1.co.uk:2053](https://t.me/proxy?server=afkar.lavazem1.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09)
+34. [name.golgoli2.co.uk:2096](https://t.me/proxy?server=name.golgoli2.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09)
+35. [dark23.qavi-13.co.uk:155](https://t.me/proxy?server=dark23.qavi-13.co.uk&port=155&secret=eedeb8be6682edb1cce7e5cdabbb8891456461726b32332e716176692d31332e636f2e756b)
+36. [kara.petros-es.co.uk:1550](https://t.me/proxy?server=kara.petros-es.co.uk&port=1550&secret=280597c4f8738458d70e44cbb8b46e8b)
+37. [torobchesho.co.uk:443](https://t.me/proxy?server=torobchesho.co.uk&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b)
+38. [iro.varfootball2.co.uk:2053](https://t.me/proxy?server=iro.varfootball2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ)
